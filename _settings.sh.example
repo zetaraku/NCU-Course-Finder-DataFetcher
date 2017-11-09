@@ -1,0 +1,10 @@
+# for the updater `update.sh`
+export NCU_API_TOKEN=''
+
+# for the uploader `upload.sh`
+export HOST=''
+export USER=''
+export PASSWD=''
+export LOCAL_DIR='' # provide the absolute path
+export REMOTE_DIR=''
+export FILES='department_tree.json courses.json' # do not modify
