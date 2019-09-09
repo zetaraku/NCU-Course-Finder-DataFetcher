@@ -1,4 +1,6 @@
 # NCU-Course-Finder-DataFetcher
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzetaraku%2FNCU-Course-Finder-DataFetcher.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzetaraku%2FNCU-Course-Finder-DataFetcher?ref=badge_shield)
+
 
 Introduction
 ------------
@@ -50,3 +52,5 @@ License
 -------
 
 Copyright © 2017, Raku Zeta. Licensed under the MIT license.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzetaraku%2FNCU-Course-Finder-DataFetcher.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzetaraku%2FNCU-Course-Finder-DataFetcher?ref=badge_large)
