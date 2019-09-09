@@ -20,8 +20,7 @@ our $ncu_api_header = {
 	"Accept-Language" => $LANG{TW},
 	"X-NCU-API-TOKEN" => $ncu_api_token,
 };
-our $course_endpoint = "https://course.ncu.edu.tw/Course/main/support/course.xml";
-our $course_priority_endpoint = "https://course.ncu.edu.tw/Course/main/query/byKeywords";
+our $course_endpoint = "https://cis.ncu.edu.tw/Course/main/support/course.xml";
 our $course_header = {
 	"Accept-Language" => $LANG{TW},
 };
